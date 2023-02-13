@@ -17,10 +17,6 @@ h2 {
   color: green;
 }
 
-a, h3 {
-  color: blue;
-}
-
 button {
   background-color: initial;
   background-image: linear-gradient(-180deg, #00D775, #00BD68);
